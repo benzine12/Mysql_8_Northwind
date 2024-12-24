@@ -1,3 +1,5 @@
+I also created a docker container to run it in on Docker
+
 Link to Docker Hub:
 
 https://hub.docker.com/r/archi95/sql8_northwind
