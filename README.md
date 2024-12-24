@@ -3,9 +3,10 @@ Link to Docker Hub:
 https://hub.docker.com/r/archi95/sql8_northwind
 
 username: root
+
 password: root_password
 
-to isntall the docker run :
+to insntall the docker run :
 
 docker pull archi95/sql8_northwind:latest
 
