@@ -8,7 +8,7 @@ username: root
 
 password: root_password
 
-to insntall the docker run :
+to install the docker run :
 
 docker pull archi95/sql8_northwind:latest
 
